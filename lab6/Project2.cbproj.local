@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.132,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6 — копия\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Project2.cbproj=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit1.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\TreePlus.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit2.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit1.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\TreePlus.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Tree.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Tree.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit2.dfm=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6 — копия\Unit1.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6 — копия\SmartPointer.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit2.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6 — копия\Unit1.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6 — копия\SmartPointer.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Tree.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.276,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Tree.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.864,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.788,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Project2PCH1.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab6\Tree.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Tree.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
