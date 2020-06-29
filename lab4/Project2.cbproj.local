@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.901,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Queue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Queue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.425,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.261,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Queue.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Queue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.974,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Queue.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Queue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Stack.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Stack.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Stack.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Stack.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.712,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab4.2\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
