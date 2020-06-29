@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.751,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\HashTable.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.012,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\ChildHashTable.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\HashTable.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.670,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\ChildHashTable.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.006,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\lab7\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Quasar\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
